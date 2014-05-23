@@ -314,43 +314,36 @@ hr {
     font-size: 55px; 
     color:rgba(0,0,0,0);}
   .tile.tile-2 .tile-inner {
-    background: url('../tile-sets/friends/2.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/2.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('../tile-sets/friends/4.jpg');
-    background-size:100% 100%;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0)auto; }
+    background: url('../tile-sets/one_piece/4.jpg');
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/8.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/8.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/16.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/16.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/32.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/32.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/64.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/64.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/128.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/128.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -358,16 +351,19 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
+    background: #edcc61;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/256.jpg');
-    background-size:100% 100%;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background: url('../tile-sets/one_piece/256.jpg');
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
+    font-size: 45px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-256 .tile-inner {
+        font-size: 25px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background: #edc850;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/512.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/512.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -377,8 +373,7 @@ hr {
     color: #f9f6f2;
     background: #edc53f;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/1024.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/1024.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -388,8 +383,7 @@ hr {
     color: #f9f6f2;
     background: #edc22e;
     color:rgba(0,0,0,0);
-    background: url('../tile-sets/friends/2048.jpg');
-    background-size:100% 100%;
+    background: url('../tile-sets/one_piece/2048.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
